@@ -2,7 +2,7 @@
 
 [Breakfast Menu](Menu.md/#Breakfast%20Menu)
 [Lunch Menu](Menu.md/##Lunch%20Menu)
-Dinner Menu
+[Dinner Menu](Menu.md/#Dinner%20Menu)
 Night Food Menu
 Beverages
 
@@ -12,4 +12,5 @@ Beverages
 |:----------|-----------|----------|
 | Potchara  | Breakfast | @VonKiar |
 | Sahanon | Lunch | @Sahanon-P |
+| Sorawichaya | Dinner menu | @b6210545602 |
 | ...       | ...       | ...      |

@@ -1,9 +1,7 @@
 # KU Cafe Menu
 
-## Breakfast Menu
 
-| Item                                   | Price |
-|:---------------------------------------|------:|
+=======
 | Ham sandwich                           |  25   |
 | Fried pork on rice                     |  35   |
 | White sauce pasta                      |  40   |
@@ -19,7 +17,15 @@
 | Salmon Supreme Nigiri                 |  600.0  |
 | O-Shogan Saikyou Supreme               |  1000.0  |
 
-etc.
+## Dinner Menu
+
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Mushroom soup                          |  30.0  |
+| Fish and chips                         |  80.0  |
+| Salad                                  |  60.0  |
+| Potato mash                            |  30.0  |
+
 
 ---
 
