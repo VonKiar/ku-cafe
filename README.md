@@ -2,11 +2,11 @@
 
 **TODO**: add hyperlinks and format these one per line. Remove this TODO.
 
-Breakfast Menu
-Lunch Menu
-Dinner Menu
-Night Food Menu
-Beverages
+[Breakfast Menu](Menu.md/#Breakfast%20Menu)
+[Lunch Menu]
+[Dinner Menu]
+[Night Food Menu]
+[Beverages]
 
 ## About Us
 
@@ -14,5 +14,4 @@ Beverages
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Your name | Your menu | @your_github_id |
-| ...       | ...       | ...      |
+| Potchara  | Breakfast | @VonKiar |
