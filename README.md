@@ -2,7 +2,7 @@
 
 [Breakfast Menu](Menu.md/#Breakfast%20Menu)
 
-[Lunch Menu](Menu.md/##Lunch%20Menu)
+[Lunch Menu](Menu.md/#Lunch%20Menu)
 
 [Dinner Menu](Menu.md/#Dinner%20Menu)
 
