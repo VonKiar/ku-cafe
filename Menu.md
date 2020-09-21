@@ -1,13 +1,5 @@
 # KU Cafe Menu
 
-## Breakfast Menu
-
-| Item                                   | Price |
-|:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
-
-## Lunch Menu
-
 ## Dinner Menu
 
 | Item                                   | Price |
