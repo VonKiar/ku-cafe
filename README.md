@@ -18,5 +18,5 @@
 | Sahanon | Lunch | @Sahanon-P |
 | Sorawichaya | Dinner menu | @b6210545602 |
 | Thornthep | Beverages | @Raikirieiei|
-| Phumrapeec Chaowanapricha | Night food | PhumrapeeChaowanapricha |
+| Phumrapee | Night food | @PhumrapeeChaowanapricha |
 
