@@ -4,7 +4,7 @@
 [Lunch Menu](Menu.md/##Lunch%20Menu)
 [Dinner Menu](Menu.md/#Dinner%20Menu)
 Night Food Menu
-Beverages
+[Beverages](Menu.md/#Beverages%20Menu)
 
 ## About Us
 
@@ -13,4 +13,5 @@ Beverages
 | Potchara  | Breakfast | @VonKiar |
 | Sahanon | Lunch | @Sahanon-P |
 | Sorawichaya | Dinner menu | @b6210545602 |
+| Thornthep | Beverages | @Raikirieiei|
 | ...       | ...       | ...      |
