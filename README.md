@@ -14,5 +14,5 @@ Beverages
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Your name | Your menu | @your_github_id |
+| Sorawichaya | Dinner menu | @b6210545602 |
 | ...       | ...       | ...      |
