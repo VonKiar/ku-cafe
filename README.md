@@ -1,6 +1,6 @@
 # KU Cafe
 
-Breakfast Menu
+[Breakfast Menu](Menu.md/#Breakfast%20Menu)
 [Lunch Menu](Menu.md/##Lunch%20Menu)
 Dinner Menu
 Night Food Menu
@@ -10,5 +10,6 @@ Beverages
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
+| Potchara  | Breakfast | @VonKiar |
 | Sahanon | Lunch | @Sahanon-P |
 | ...       | ...       | ...      |

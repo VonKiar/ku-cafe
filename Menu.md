@@ -4,7 +4,10 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Ham sandwich                           |  25   |
+| Fried pork on rice                     |  35   |
+| White sauce pasta                      |  40   |
+| Honeytoast                             |  30   |
 
 ## Lunch Menu
 
@@ -19,5 +22,6 @@
 etc.
 
 ---
+
 
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
