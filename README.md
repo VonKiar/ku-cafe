@@ -4,7 +4,7 @@
 
 Breakfast Menu
 Lunch Menu
-[Dinner Menu] (Menu.md/#Dinner%20Menu)
+[Dinner Menu](Menu.md/#Dinner%20Menu)
 Night Food Menu
 Beverages
 
