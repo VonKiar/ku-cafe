@@ -1,10 +1,13 @@
 # KU Cafe Menu
 
-## Breakfast Menu
+## Beverages Menu
 
-| Item                                   | Price |
-|:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Item                                   |  Price  |
+|:---------------------------------------|--------:|
+| Coke                                   |  20.0   |
+| Strawberry Smootie                     |  50.0   |
+| Water                                  |  10.0   |
+| Latte                                  |  40.0   |
 
 ## Lunch Menu
 
