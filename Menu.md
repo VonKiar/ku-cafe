@@ -8,7 +8,13 @@
 
 ## Lunch Menu
 
-Coming soon.
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Kaisen-Don                            |  315.0  |
+| Katsu-Don                            |  150.0  |
+| Oyako-Don                            |  100.0  |
+| Salmon Supreme Nigiri                 |  600.0  |
+| O-Shogan Saikyou Supreme               |  1000.0  |
 
 etc.
 
