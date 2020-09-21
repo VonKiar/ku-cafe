@@ -1,5 +1,6 @@
 # KU Cafe Menu
 
+
 ## Breakfast Menu
 
 | Item                                   | Price |
@@ -29,6 +30,15 @@
 | Salad                                  |  60.0  |
 | Potato mash                            |  30.0  |
 
+## Night food Menu
+
+| Item                                   | Price |
+|:---------------------------------------|------:|
+|  1.Cottage Cheese                            | 50.0  |
+|  2.Fish Burger                           |  75.0  |
+|  3.French Fries                           |  40.0  |
+|  4.Roti                            | 35.0  |
+
 ## Beverages Menu
 
 | Item                                   |  Price  |
@@ -41,5 +51,5 @@
 
 ---
 
-
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
+
